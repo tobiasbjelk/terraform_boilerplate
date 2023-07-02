@@ -12,8 +12,6 @@ Welcome to this Terraform Boilerplate repository! This repository contains boile
 - Sample configurations for different environments (dev, test)
 - Pre-configured for use with Azure backend.
 
-provider version is locking version under next major release to avoid breaking changes.
-
 ## Prerequisites
 
 - AzureCLI
